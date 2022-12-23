@@ -1,6 +1,6 @@
 # BruteForce-FB
 
->> git clone https://github.com/IAmBlackHacker/Facebook-BruteForce
+>> git clone https://github.com/dipanjan18-lab/BruteForce-FB.git
 
 >> cd Facebook-BruteForce
 
